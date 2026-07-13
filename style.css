@@ -1,0 +1,16 @@
+.logo{
+    width:120px;
+    height:auto;
+    display:block;
+    margin:0 auto 15px;
+}
+
+h2{
+    margin-bottom:5px;
+    color:#222;
+}
+
+p{
+    color:#666;
+    margin-bottom:25px;
+}
